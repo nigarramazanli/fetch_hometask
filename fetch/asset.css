@@ -1,0 +1,9 @@
+.user-message{
+    width: 50%;
+ }
+ .common-comments{
+     width: 100%;
+     display: flex;
+    
+     flex-direction: row;
+ }
